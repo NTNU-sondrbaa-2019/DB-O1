@@ -1,0 +1,7 @@
+composer.*
+*.yml
+vendor/*
+tests/*
+!tests/unit
+!tests/acceptance
+
